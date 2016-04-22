@@ -1,0 +1,24 @@
+@import "_normalize.css";
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.border {
+	height: 6px;
+
+	background-color: #fd7474;
+	background-image: 
+	  linear-gradient(
+	  	to right,
+	  	#fd7474,
+	  	#fd7474 25%,
+	  	#fec951 25%,
+	  	#fec951 50%,
+	  	#47b8e0 50%,
+	  	#47b8e0 75%,
+	  	#9f68d0 75%,
+	  	#9f68d0 100%,
+	  	#9f68d0 100%
+	  );
+}
